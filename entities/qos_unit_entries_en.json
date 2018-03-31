@@ -1,0 +1,50 @@
+[
+  {
+    "value": "ms",
+    "synonyms": [
+      "ms",
+      "millisecond",
+      "milliseconds"
+    ]
+  },
+  {
+    "value": "s",
+    "synonyms": [
+      "s",
+      "second",
+      "seconds"
+    ]
+  },
+  {
+    "value": "m",
+    "synonyms": [
+      "m",
+      "minutes",
+      "minute"
+    ]
+  },
+  {
+    "value": "mbps",
+    "synonyms": [
+      "mbps",
+      "megabits per seconds",
+      "megabit per second"
+    ]
+  },
+  {
+    "value": "gbps",
+    "synonyms": [
+      "gbps",
+      "gigabit per second",
+      "gigabit per seconds"
+    ]
+  },
+  {
+    "value": "%",
+    "synonyms": [
+      "percent",
+      "percentage",
+      "%"
+    ]
+  }
+]

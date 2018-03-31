@@ -1,0 +1,174 @@
+[
+  {
+    "id": "5022555a-f5a0-48c1-9e34-0349189879e4",
+    "data": [
+      {
+        "text": "add shaping ",
+        "userDefined": false
+      },
+      {
+        "text": "to gateway",
+        "alias": "destination",
+        "meta": "@destination",
+        "userDefined": true
+      },
+      {
+        "text": " everyday ",
+        "userDefined": false
+      },
+      {
+        "text": "from 6pm",
+        "alias": "start",
+        "meta": "@start",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "to midnight",
+        "alias": "end",
+        "meta": "@end",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521835577
+  },
+  {
+    "id": "a0d14453-11eb-4824-89cd-45193fe6cf3d",
+    "data": [
+      {
+        "text": "add ",
+        "userDefined": false
+      },
+      {
+        "text": "inspection",
+        "alias": "middlebox",
+        "meta": "@middlebox",
+        "userDefined": true
+      },
+      {
+        "text": " for the ",
+        "userDefined": false
+      },
+      {
+        "text": "university",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "from 10pm",
+        "alias": "start",
+        "meta": "@start",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "to 12pm",
+        "alias": "end",
+        "meta": "@end",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521835577
+  },
+  {
+    "id": "5ca0afad-563f-4c54-a236-982a95fbe4b3",
+    "data": [
+      {
+        "text": "add ",
+        "userDefined": false
+      },
+      {
+        "text": "load balancing",
+        "alias": "middlebox",
+        "meta": "@middlebox",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "from gateway",
+        "alias": "origin",
+        "meta": "@origin",
+        "userDefined": true
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "to database",
+        "alias": "destination",
+        "meta": "@destination",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521835577
+  },
+  {
+    "id": "8e26e4a9-e71d-4e4c-b0e8-a8a8798c7bff",
+    "data": [
+      {
+        "text": "add a ",
+        "userDefined": false
+      },
+      {
+        "text": "firewall",
+        "alias": "middlebox",
+        "meta": "@middlebox",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "address translation",
+        "alias": "middlebox",
+        "meta": "@middlebox",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "at\u0026t",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "verizon",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521835577
+  }
+]

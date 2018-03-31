@@ -1,0 +1,62 @@
+[
+  {
+    "value": "to @sys.date:date",
+    "synonyms": [
+      "to @sys.date:date"
+    ]
+  },
+  {
+    "value": "to @sys.date-period:date-period",
+    "synonyms": [
+      "to @sys.date-period:date-period"
+    ]
+  },
+  {
+    "value": "to @sys.time:time",
+    "synonyms": [
+      "to @sys.time:time"
+    ]
+  },
+  {
+    "value": "to @sys.time-period:time-period",
+    "synonyms": [
+      "to @sys.time-period:time-period"
+    ]
+  },
+  {
+    "value": "to @sys.date-time:date-time",
+    "synonyms": [
+      "to @sys.date-time:date-time"
+    ]
+  },
+  {
+    "value": "ending at @sys.date:date",
+    "synonyms": [
+      "ending at @sys.date:date"
+    ]
+  },
+  {
+    "value": "ending at @sys.date-period:date-period",
+    "synonyms": [
+      "ending at @sys.date-period:date-period"
+    ]
+  },
+  {
+    "value": "ending at @sys.time:time",
+    "synonyms": [
+      "ending at @sys.time:time"
+    ]
+  },
+  {
+    "value": "ending at @sys.time-period:time-period",
+    "synonyms": [
+      "ending at @sys.time-period:time-period"
+    ]
+  },
+  {
+    "value": "ending at @sys.date-time:date-time",
+    "synonyms": [
+      "ending at @sys.date-time:date-time"
+    ]
+  }
+]

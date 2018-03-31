@@ -1,0 +1,82 @@
+[
+  {
+    "value": "udp",
+    "synonyms": [
+      "udp"
+    ]
+  },
+  {
+    "value": "tcp",
+    "synonyms": [
+      "tcp"
+    ]
+  },
+  {
+    "value": "http",
+    "synonyms": [
+      "http",
+      "browser traffic"
+    ]
+  },
+  {
+    "value": "dns",
+    "synonyms": [
+      "dns"
+    ]
+  },
+  {
+    "value": "ssl",
+    "synonyms": [
+      "ssl",
+      "tls",
+      "tls/ssl"
+    ]
+  },
+  {
+    "value": "ftp",
+    "synonyms": [
+      "ftp"
+    ]
+  },
+  {
+    "value": "netflix",
+    "synonyms": [
+      "netflix"
+    ]
+  },
+  {
+    "value": "youtube",
+    "synonyms": [
+      "youtube"
+    ]
+  },
+  {
+    "value": "video",
+    "synonyms": [
+      "video sites",
+      "youtube",
+      "netflix",
+      "amazon prime",
+      "streaming"
+    ]
+  },
+  {
+    "value": "music",
+    "synonyms": [
+      "music",
+      "steraming"
+    ]
+  },
+  {
+    "value": "quic",
+    "synonyms": [
+      "quic"
+    ]
+  },
+  {
+    "value": "news",
+    "synonyms": [
+      "news"
+    ]
+  }
+]

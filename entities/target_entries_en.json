@@ -1,0 +1,69 @@
+[
+  {
+    "value": "costumer",
+    "synonyms": [
+      "costumer",
+      "costumers",
+      "clients",
+      "client"
+    ]
+  },
+  {
+    "value": "network",
+    "synonyms": [
+      "network",
+      "internet",
+      "all costumers",
+      "net"
+    ]
+  },
+  {
+    "value": "company",
+    "synonyms": [
+      "company",
+      "enterprise"
+    ]
+  },
+  {
+    "value": "person",
+    "synonyms": [
+      "person",
+      "people"
+    ]
+  },
+  {
+    "value": "at\u0026t",
+    "synonyms": [
+      "att",
+      "at and t"
+    ]
+  },
+  {
+    "value": "verizon",
+    "synonyms": [
+      "verizon"
+    ]
+  },
+  {
+    "value": "princeton",
+    "synonyms": [
+      "princeton",
+      "princeton university"
+    ]
+  },
+  {
+    "value": "university",
+    "synonyms": [
+      "university",
+      "college",
+      "school"
+    ]
+  },
+  {
+    "value": "ufrgs",
+    "synonyms": [
+      "ufrgs",
+      "federal university of rio grande do sul"
+    ]
+  }
+]

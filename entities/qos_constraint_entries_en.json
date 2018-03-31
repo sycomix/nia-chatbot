@@ -1,0 +1,45 @@
+[
+  {
+    "value": "less",
+    "synonyms": [
+      "less",
+      "less than",
+      "lower",
+      "lower than"
+    ]
+  },
+  {
+    "value": "more",
+    "synonyms": [
+      "more",
+      "more than",
+      "higher than",
+      "higher"
+    ]
+  },
+  {
+    "value": "equal",
+    "synonyms": [
+      "equal",
+      "equal to",
+      "same",
+      "same as"
+    ]
+  },
+  {
+    "value": "less or equal",
+    "synonyms": [
+      "less or equal",
+      "no more than",
+      "not higher than"
+    ]
+  },
+  {
+    "value": "more or equal",
+    "synonyms": [
+      "more or equal",
+      "no less than",
+      "not lower than"
+    ]
+  }
+]

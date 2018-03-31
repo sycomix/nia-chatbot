@@ -1,0 +1,69 @@
+[
+  {
+    "value": "database",
+    "synonyms": [
+      "database",
+      "base of data",
+      "data"
+    ]
+  },
+  {
+    "value": "backend",
+    "synonyms": [
+      "backend",
+      "backend server",
+      "backend servers",
+      "servers"
+    ]
+  },
+  {
+    "value": "marketing",
+    "synonyms": [
+      "marketing",
+      "marketing department"
+    ]
+  },
+  {
+    "value": "gateway",
+    "synonyms": [
+      "gateway",
+      "network gateway"
+    ]
+  },
+  {
+    "value": "ps4",
+    "synonyms": [
+      "ps4",
+      "videogame",
+      "playstation",
+      "playstation 4"
+    ]
+  },
+  {
+    "value": "pc",
+    "synonyms": [
+      "pc",
+      "my pc",
+      "my computer",
+      "personal computer"
+    ]
+  },
+  {
+    "value": "macbook",
+    "synonyms": [
+      "macbook",
+      "my macbook",
+      "my mac"
+    ]
+  },
+  {
+    "value": "r\u0026d",
+    "synonyms": [
+      "r\u0026d",
+      "r\u0026d division",
+      "programming divinsion",
+      "development",
+      "development division"
+    ]
+  }
+]

@@ -1,0 +1,111 @@
+{
+  "id": "64cdfdeb-18dd-4c76-be0a-4b55021ad1eb",
+  "name": "build",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": true,
+      "action": "input.waypoint",
+      "affectedContexts": [
+        {
+          "name": "as",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "Netow",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "Network",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "u",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "Functions",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "Security",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "182635c6-adeb-4e40-b46e-a10b8e3b1c7f",
+          "required": false,
+          "dataType": "@middlebox",
+          "name": "middlebox",
+          "value": "$middlebox",
+          "isList": true
+        },
+        {
+          "id": "fa9ff2bc-2520-475c-8bdd-85eacd18ce6b",
+          "required": false,
+          "dataType": "@target",
+          "name": "target",
+          "value": "$target",
+          "isList": true
+        },
+        {
+          "id": "e422ca1e-559e-43a5-a031-ea7a22f67db0",
+          "required": false,
+          "dataType": "@start",
+          "name": "start",
+          "value": "$start",
+          "isList": false
+        },
+        {
+          "id": "d55b91c4-bdb5-42a7-9c7b-0e77c6e0e9df",
+          "required": false,
+          "dataType": "@end",
+          "name": "end",
+          "value": "$end",
+          "isList": false
+        },
+        {
+          "id": "46c8e093-e7d2-4531-9afe-05900095c259",
+          "required": false,
+          "dataType": "@origin",
+          "name": "origin",
+          "value": "$origin",
+          "isList": false
+        },
+        {
+          "id": "a09c2d3c-197a-40b9-b9a6-f9af1083c6f0",
+          "required": false,
+          "dataType": "@destination",
+          "name": "destination",
+          "value": "$destination",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521835577,
+  "fallbackIntent": false,
+  "events": []
+}

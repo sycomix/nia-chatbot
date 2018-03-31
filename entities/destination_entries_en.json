@@ -1,0 +1,20 @@
+[
+  {
+    "value": "to @location:location",
+    "synonyms": [
+      "to @location:location"
+    ]
+  },
+  {
+    "value": "ending at @location:location",
+    "synonyms": [
+      "ending at @location:location"
+    ]
+  },
+  {
+    "value": "end at @location:location",
+    "synonyms": [
+      "end at @location:location"
+    ]
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "value": "latency",
+    "synonyms": [
+      "latency",
+      "delay"
+    ]
+  },
+  {
+    "value": "bandwidth",
+    "synonyms": [
+      "bandwidth",
+      "speed",
+      "throughput",
+      "link"
+    ]
+  },
+  {
+    "value": "jitter",
+    "synonyms": [
+      "jitter",
+      "flutter"
+    ]
+  },
+  {
+    "value": "loss",
+    "synonyms": [
+      "loss",
+      "packet loss",
+      "drops",
+      "packet drops",
+      "drop"
+    ]
+  }
+]

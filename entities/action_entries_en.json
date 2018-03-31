@@ -1,0 +1,16 @@
+[
+  {
+    "value": "block",
+    "synonyms": [
+      "block",
+      "intercept"
+    ]
+  },
+  {
+    "value": "allow",
+    "synonyms": [
+      "allow",
+      "let through"
+    ]
+  }
+]

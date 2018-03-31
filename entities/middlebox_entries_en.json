@@ -1,0 +1,70 @@
+[
+  {
+    "value": "parental control",
+    "synonyms": [
+      "parental control",
+      "parent inspection",
+      "children protection",
+      "content control",
+      "child protection"
+    ]
+  },
+  {
+    "value": "traffic shaping",
+    "synonyms": [
+      "traffic shaping",
+      "traffic shaper"
+    ]
+  },
+  {
+    "value": "deep inspection",
+    "synonyms": [
+      "deep inspection",
+      "deep packet inspection",
+      "dpi",
+      "security",
+      "packet inspection"
+    ]
+  },
+  {
+    "value": "firewall",
+    "synonyms": [
+      "firewall",
+      "security"
+    ]
+  },
+  {
+    "value": "intrusion detection",
+    "synonyms": [
+      "intrusion detection",
+      "intrusion detection system",
+      "ids",
+      "security"
+    ]
+  },
+  {
+    "value": "address translation",
+    "synonyms": [
+      "address translation",
+      "network address translation",
+      "translation"
+    ]
+  },
+  {
+    "value": "load balancer",
+    "synonyms": [
+      "load balancer",
+      "load balancing",
+      "balancing"
+    ]
+  },
+  {
+    "value": "virtual private network",
+    "synonyms": [
+      "vpn",
+      "private netwok",
+      "privacy",
+      "tunneling"
+    ]
+  }
+]

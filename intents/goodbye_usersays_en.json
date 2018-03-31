@@ -1,0 +1,74 @@
+[
+  {
+    "id": "20f38837-76d3-4d8a-bada-ea756c8f0b78",
+    "data": [
+      {
+        "text": "See you later then!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519392615
+  },
+  {
+    "id": "7b9cd0d2-15ed-49cb-b100-7aafa6ac73c2",
+    "data": [
+      {
+        "text": "Ok, see you!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519392615
+  },
+  {
+    "id": "aeb7fadb-4514-4b52-86bb-dfb54abfb3ec",
+    "data": [
+      {
+        "text": "Great! Bye!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519392615
+  },
+  {
+    "id": "320e41ba-c1e5-49e0-a9df-2a9213d14bbb",
+    "data": [
+      {
+        "text": "Bye bye!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519392615
+  },
+  {
+    "id": "412fd8d0-4e5f-4987-a2ea-4c4f67e18bee",
+    "data": [
+      {
+        "text": "Thank you!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519392615
+  },
+  {
+    "id": "b889f7dc-d1da-4d65-bbc9-59f2fc4bcd35",
+    "data": [
+      {
+        "text": "Ok, thanks!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519392615
+  }
+]
